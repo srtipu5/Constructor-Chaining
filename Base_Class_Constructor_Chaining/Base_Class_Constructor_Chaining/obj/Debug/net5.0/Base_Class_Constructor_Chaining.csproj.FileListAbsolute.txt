@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\bin\Debug\net5.0\Base_Class_Constructor_Chaining.exe
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\bin\Debug\net5.0\Base_Class_Constructor_Chaining.deps.json
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\bin\Debug\net5.0\Base_Class_Constructor_Chaining.runtimeconfig.json
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\bin\Debug\net5.0\Base_Class_Constructor_Chaining.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\bin\Debug\net5.0\Base_Class_Constructor_Chaining.dll
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\bin\Debug\net5.0\ref\Base_Class_Constructor_Chaining.dll
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\bin\Debug\net5.0\Base_Class_Constructor_Chaining.pdb
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\obj\Debug\net5.0\Base_Class_Constructor_Chaining.csprojAssemblyReference.cache
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\obj\Debug\net5.0\Base_Class_Constructor_Chaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\obj\Debug\net5.0\Base_Class_Constructor_Chaining.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\obj\Debug\net5.0\Base_Class_Constructor_Chaining.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\obj\Debug\net5.0\Base_Class_Constructor_Chaining.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\obj\Debug\net5.0\Base_Class_Constructor_Chaining.dll
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\obj\Debug\net5.0\ref\Base_Class_Constructor_Chaining.dll
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\obj\Debug\net5.0\Base_Class_Constructor_Chaining.pdb
+C:\Users\Tipu\Desktop\C# OOP\Base_Class_Constructor_Chaining\Base_Class_Constructor_Chaining\obj\Debug\net5.0\Base_Class_Constructor_Chaining.genruntimeconfig.cache

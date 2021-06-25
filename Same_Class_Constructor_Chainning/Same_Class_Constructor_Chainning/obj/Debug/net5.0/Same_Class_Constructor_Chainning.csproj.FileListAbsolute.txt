@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\bin\Debug\net5.0\Same_Class_Constructor_Chainning.exe
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\bin\Debug\net5.0\Same_Class_Constructor_Chainning.deps.json
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\bin\Debug\net5.0\Same_Class_Constructor_Chainning.runtimeconfig.json
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\bin\Debug\net5.0\Same_Class_Constructor_Chainning.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\bin\Debug\net5.0\Same_Class_Constructor_Chainning.dll
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\bin\Debug\net5.0\ref\Same_Class_Constructor_Chainning.dll
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\bin\Debug\net5.0\Same_Class_Constructor_Chainning.pdb
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\obj\Debug\net5.0\Same_Class_Constructor_Chainning.csprojAssemblyReference.cache
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\obj\Debug\net5.0\Same_Class_Constructor_Chainning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\obj\Debug\net5.0\Same_Class_Constructor_Chainning.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\obj\Debug\net5.0\Same_Class_Constructor_Chainning.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\obj\Debug\net5.0\Same_Class_Constructor_Chainning.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\obj\Debug\net5.0\Same_Class_Constructor_Chainning.dll
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\obj\Debug\net5.0\ref\Same_Class_Constructor_Chainning.dll
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\obj\Debug\net5.0\Same_Class_Constructor_Chainning.pdb
+C:\Users\Tipu\Desktop\C# OOP\Same_Class_Constructor_Chainning\Same_Class_Constructor_Chainning\obj\Debug\net5.0\Same_Class_Constructor_Chainning.genruntimeconfig.cache

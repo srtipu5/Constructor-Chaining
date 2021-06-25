@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Same_Class_Constructor_Chainning/1.0.0": {
+        "runtime": {
+          "Same_Class_Constructor_Chainning.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Same_Class_Constructor_Chainning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
